@@ -1,6 +1,9 @@
 // This is the url of the Google Spreadsheet with the year's events on it
 var MASTER_ANNOUNCEMENTS_SHEET = "https://docs.google.com/spreadsheets/d/1wUz2hj1q_FwQssLyyvtOtQEjedGlfQeoGD3lRN9ZrNI/edit";
 
+// This is the id of the Google Calendar with the year's events on it
+var CALENDAR_ID = "52l95kpefa66kqpi0th0nnjbtk@group.calendar.google.com";
+
 // This is the IDs of the folder the announcement sheets go in
 var FOLDER_IDS = {
   'Monthly Announcement Sheet':'1-OpW_6CEBTuMuYfxoESbwsBzB2kZEqRx',
